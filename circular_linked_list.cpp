@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std; 
-
+//creating a node
 class Node{
     public:
     int data;
